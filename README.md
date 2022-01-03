@@ -4,7 +4,7 @@ Eternal Liquidity Dao Protocol - open source code to enhance EOS ecosystem by in
 
 Permanent liquidity AMM trading relays directed by token governed DAO
 
- 1. Governance tokens are created by ongoing auction paid in EOS
+ 1. Governance tokens are created by ongoing dutch style auctions paid in EOS
 
  2. The EOS received from auctions is utilized to create permanent liquidity pools of various EOS project tokens, in accordance to the voting of ELP token holders.
 

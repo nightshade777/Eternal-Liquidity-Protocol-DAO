@@ -6,7 +6,7 @@ Permanent liquidity AMM trading relays directed by token governed DAO
 
  1. Governance tokens are created by ongoing dutch style auctions paid in EOS
 
- 2. The EOS received from auctions is utilized to create permanent liquidity pools of various EOS project tokens, in accordance to the voting of ELP token holders.
+ 2. The EOS received from auctions is utilized to create permanent liquidity pools of various EOS project tokens, liquidity is directed to tokens selected by voting of ELP token holders.
 
 /**For example if there is a 100 ELP token supply and 50 ELP tokens vote for BOX, if the daily auction receives 100 EOS, 50 EOS will be assigned to the BOX/EOS LP, therefore 25 EOS will buyback BOX, 25 EOS will serve as the other half of the relay and both sides will be deposited and locked in the relay permanently. **/
 

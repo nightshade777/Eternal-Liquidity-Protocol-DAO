@@ -17,7 +17,11 @@ How does this benefit EOS?
 When creating locked liquidity pools of various tokens, and in the event those tokens rise in price, they will lock even more EOS into the relays. The EOS residing inside the relay will not be able to be withdrawn in the same way as in open liquidity protocols which ‘rent’ liquidity from holders. The EOS will remain locked and will only dissipate if the token in the other half of the relay falls in price. This will create liquidity for EOS projects as well as apply deflationary pressure to the EOS token. 
 
 Anyone can list a token 
-(Once a token has accumulated a certain threshold of liquidity from daily auctions with votes, a relay will be opened) 
+(Once a token has accumulated a certain threshold of liquidity from daily auctions with votes, a relay will be opened- mechanism for aquiring non-eos liquidity will need to be developed)
+
+This code will be very useful and can serve as the foundation for other ideas to build upon such as investment DAOs which would allow for the liquidity of individual projects to be shifted/sold at voter discretion, allow custody and open liquidity, and perhaps enable token holders to burn governance tokens to claim back a pro rata share of protoocl owned assets. This particular code implementation focuses on a permanent liquidity as a public good and does not plan to expand to these ideas. 
+
+
 
 Relays will use constant product formula pricing algorithm
 

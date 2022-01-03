@@ -25,4 +25,5 @@ Relays will use constant product formula pricing algorithm
 
 ![image](https://user-images.githubusercontent.com/51843516/147984498-1ef6a57c-c03e-46cb-807c-79142c007c25.png)
 
-![image](https://user-images.githubusercontent.com/51843516/147984509-2f191371-fb02-4c72-98be-7f7f9757b796.png)
+![image](https://user-images.githubusercontent.com/51843516/147984729-b2acdb9e-2908-4453-a30b-629a243aac0c.png)
+

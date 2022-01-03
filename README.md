@@ -20,3 +20,9 @@ Anyone can list a token
 (Once a token has accumulated a certain threshold of liquidity from daily auctions with votes, a relay will be opened) 
 
 Relays will use constant product formula pricing algorithm
+
+![image](https://user-images.githubusercontent.com/51843516/147984482-5275aca4-4104-495c-9fb6-0bfdc0e9b10a.png)
+
+![image](https://user-images.githubusercontent.com/51843516/147984498-1ef6a57c-c03e-46cb-807c-79142c007c25.png)
+
+![image](https://user-images.githubusercontent.com/51843516/147984509-2f191371-fb02-4c72-98be-7f7f9757b796.png)

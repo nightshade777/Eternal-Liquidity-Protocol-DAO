@@ -12,6 +12,8 @@ Permanent liquidity AMM trading relays directed by token governed DAO
 
  3. Fees will be taken in terms of EOS on both buy and sell orders, 100% of fees  from the relays will be used to buyback and burn ELP from the ELP/EOS relay, allowing for a sustainable enclosed system. 
 
+ 4. Code can be forked to take any community token instead of EOS, allowing any EOS sub community to form a Liquidity Dao, bringing EOS closer to a DAO of DAOs.
+
 How does this benefit EOS?
 
 When creating locked liquidity pools of various tokens, and in the event those tokens rise in price, they will lock even more EOS into the relays. The EOS residing inside the relay will not be able to be withdrawn in the same way as in open liquidity protocols which ‘rent’ liquidity from holders. The EOS will remain locked and will only dissipate if the token in the other half of the relay falls in price. This will create liquidity for EOS projects as well as apply deflationary pressure to the EOS token. 

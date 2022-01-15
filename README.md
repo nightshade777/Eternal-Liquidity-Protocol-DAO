@@ -30,11 +30,6 @@ This code will be very useful and can serve as the foundation for other ideas to
 
 Relays will use constant product formula pricing algorithm
 
-![image](https://user-images.githubusercontent.com/51843516/147984482-5275aca4-4104-495c-9fb6-0bfdc0e9b10a.png)
-
-![image](https://user-images.githubusercontent.com/51843516/147996309-765fc389-e644-446d-8d0a-0fcbeba91c48.png)
-
-![image](https://user-images.githubusercontent.com/51843516/147996330-728147d7-93dc-4e2e-9b14-48b449d9fe3d.png)
 
 ![image](https://user-images.githubusercontent.com/51843516/149638489-822b0b24-821e-4ed0-b1fe-6e0e23ee78c3.png)
 ![image](https://user-images.githubusercontent.com/51843516/149638455-a53a7e26-4af4-42ad-ba37-5f88f4d7ba65.png)

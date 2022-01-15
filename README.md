@@ -1,5 +1,8 @@
 # Eternal-Liquidity-Protocol-DAO
 
+![image](https://user-images.githubusercontent.com/51843516/149638435-2965cac6-5f86-423b-8bf9-4b36f5a45d5d.png)
+
+
 Eternal Liquidity Dao Protocol - open source code to enhance EOS ecosystem by increasing liquidity of EOS-based tokens as well as adding deflationary pressure to EOS 
 
 Permanent liquidity AMM trading relays directed by token governed DAO

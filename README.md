@@ -37,6 +37,11 @@ Relays will use constant product formula pricing algorithm
 ![image](https://user-images.githubusercontent.com/51843516/149638471-5a1425bb-c179-494f-b3bd-df636419f5db.png)
 
 
+ELP Dao has been submitted to Upscale for potential funding, with the following fee share scheme depending on investment:
+![image](https://github.com/nightshade777/Eternal-Liquidity-Protocol-DAO/assets/51843516/e4eb84ad-d8f3-4416-ae83-f2e0f1a6054f)
+
+
+
 
 
 
